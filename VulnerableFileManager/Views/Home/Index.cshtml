@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Vulnerable File Manager";
+    Layout = null;
+}
+
+<div class="container">
+    <h1>📁 Vulnerable File Manager</h1>
+
+    @if (Context.Request.Query.ContainsKey("username"))
+    {
+        <div class="alert">
+            Welcome, @Context.Request.Query["username"]!
+        </div>
+    }
+
+    <div class="form-group">
+        <h3>List Directory</h3>
+        <form action="/Home/List" method="get">
+            <input hidden name="dir" value=".">
+            <button type="submit">🔍 List Files</button>
+        </form>
+    </div>
+
+    <div class="form-group">
+        <h3>Создать папку</h3>
+        <form action="/Home/CreateDirectory" method="post">
+            <input type="hidden" name="currentPath" value="@ViewBag.CurrentPath">
+            <input type="text" name="folderName" placeholder="Имя новой папки" required>
+            <button type="submit">📂 Create</button>
+        </form>
+    </div>
+
+    <div class="form-group">
+        <h3>Upload File</h3>
+        <form action="/Home/Upload" method="post" enctype="multipart/form-data">
+            <input type="text" name="path" placeholder="Target directory" value=".">
+            <input type="file" name="file">
+            <button type="submit">⬆️ Upload</button>
+        </form>
+    </div>
+
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert">@TempData["Message"]</div>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger">@TempData["Error"]</div>
+    }
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success">@TempData["Message"]</div>
+    }
+
+</div>

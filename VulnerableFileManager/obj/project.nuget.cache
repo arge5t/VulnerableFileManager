@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "twXoBxV6ZnnV7gJL0WUs2LjBUGM3i0ZfGfiqbJ67hdipOwHD1fvdbmB0gyas0g2kWKOH59Z8PBJG+gKiE8rMYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\VulnerableFileManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denimilf\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

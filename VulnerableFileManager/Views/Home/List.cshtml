@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "File List";
+    Layout = null;
+}
+
+<h2>📂 Directory Listing: @ViewBag.CurrentDir</h2>
+
+<h3>📁 Directories:</h3>
+<ul>
+    @foreach (var dirPath in ViewBag.Dirs)
+    {
+        <li>
+            <a href="/Home/List?dir=@dirPath">
+                @System.IO.Path.GetFileName(dirPath.ToString())
+            </a>
+        </li>
+    }
+</ul>
+
+<h3>📄 Files:</h3>
+<ul>
+    @foreach (var file in ViewBag.Files)
+    {
+        <li>
+            <a href="/Home/Download?file=@Uri.EscapeDataString(file)">⬇️ Download</a>
+            - <span>@System.IO.Path.GetFileName(file)</span>
+        </li>
+    }
+</ul>
+
+<a href="/Home">← Back to main</a>

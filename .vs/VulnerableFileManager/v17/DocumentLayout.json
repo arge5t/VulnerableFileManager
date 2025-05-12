@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|c:\\users\\denimilf\\desktop\\projects\\vulnerablefilemanager\\vulnerablefilemanager\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|solutionrelative:vulnerablefilemanager\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|c:\\users\\denimilf\\desktop\\projects\\vulnerablefilemanager\\vulnerablefilemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|solutionrelative:vulnerablefilemanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|c:\\users\\denimilf\\desktop\\projects\\vulnerablefilemanager\\vulnerablefilemanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|solutionrelative:vulnerablefilemanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|c:\\users\\denimilf\\desktop\\projects\\vulnerablefilemanager\\vulnerablefilemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|solutionrelative:vulnerablefilemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|c:\\users\\denimilf\\desktop\\projects\\vulnerablefilemanager\\vulnerablefilemanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|solutionrelative:vulnerablefilemanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|c:\\users\\denimilf\\desktop\\projects\\vulnerablefilemanager\\vulnerablefilemanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|solutionrelative:vulnerablefilemanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|c:\\users\\denimilf\\desktop\\projects\\vulnerablefilemanager\\vulnerablefilemanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|solutionrelative:vulnerablefilemanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|c:\\users\\denimilf\\desktop\\projects\\vulnerablefilemanager\\vulnerablefilemanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67CCA8F-229A-459D-833A-566D251F0254}|VulnerableFileManager\\VulnerableFileManager.csproj|solutionrelative:vulnerablefilemanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "VulnerableFileManager\\Views\\Home\\List.cshtml",
+              "ToolTip": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "VulnerableFileManager\\Views\\Home\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T08:37:44.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VulnerableFileManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VulnerableFileManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T08:37:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VulnerableFileManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VulnerableFileManager\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAkwIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:36:00.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VulnerableFileManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VulnerableFileManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T08:35:17.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VulnerableFileManager\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "VulnerableFileManager\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T08:35:12.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Program.cs",
+              "RelativeDocumentMoniker": "VulnerableFileManager\\Program.cs",
+              "ToolTip": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Program.cs",
+              "RelativeToolTip": "VulnerableFileManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:34:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "VulnerableFileManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "VulnerableFileManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T08:35:18.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VulnerableFileManager\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\denimilf\\Desktop\\projects\\VulnerableFileManager\\VulnerableFileManager\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "VulnerableFileManager\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T08:35:08.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
